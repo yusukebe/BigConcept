@@ -22,7 +22,10 @@
 目を通してくれると嬉しい。
 
 なお、
-本テキストはMarkdown形式で書かれ、そのうちgithubなどのオープンなレポジトリステムで管理されるかもしれない。
+本テキストはMarkdown形式で書かれ、githubで管理される。
+
+- [yusukebe's BigConcept at master - GitHub](http://github.com/yusukebe/BigConcept "yusukebe's BigConcept at master - GitHub")
+
 また、一部記載に支障がでる人名などはイニシャルで表すなどの対策を施すようにする。
 
 #### 参考書籍
